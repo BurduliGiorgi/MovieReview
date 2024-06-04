@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using AuthSystem.Models;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//lado was here
 // Add services to the container.
 builder.Services.AddRazorPages();
 
