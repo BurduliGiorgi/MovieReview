@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FKA4yl8NUYZB/AKkMufcdDM/NKQZLaEzpi5Mi2dT6tsN/bBVRw9MilVCHDBTobv4s4iMQwXT8Vi+QaZhQfwmRQ==",
+  "dgSpecHash": "BuagqMfgzOHj53/DfzVkaFyVMQPF1HkqCRnFAEg9ogZsQlVhIO2hR6eDLmqKV46CsaeUcJsqDU1GHDkROwSFCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\MovieReview\\MovieReview\\MovieReview.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\MovieReview\\MovieReview\\MovieReview\\MovieReview.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
