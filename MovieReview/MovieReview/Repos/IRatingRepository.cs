@@ -1,0 +1,14 @@
+﻿using System.Collections.Specialized;
+using MovieReview.Models;
+
+namespace MovieReview.Repos
+{
+    public interface IRatingRepository
+    {
+        public Rating GetUserById(int ratingId);
+        public List<Rating> GetRatingsByMovieId(int movieId);
+        public void AddRating(Rating newRating);
+        public Rating UpdateRating(Rating updatedRating);
+        public void DeleteRating(int ratingId);
+    }
+}
