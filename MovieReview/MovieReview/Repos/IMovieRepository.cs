@@ -1,4 +1,6 @@
-﻿namespace MovieReview.Repos
+﻿using MovieReview.Models;
+
+namespace MovieReview.Repos
 {
     public interface IMovieRepository
     {
