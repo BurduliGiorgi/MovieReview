@@ -9,40 +9,45 @@ namespace MovieReview.Repos
         public MovieRepository()
         {
             movies = new List<Movie>();
-
         }
 
-        // get user by id
-        public ApplicationUser GetMovieById(int movieId)
+        // get movie by id
+        public Movie GetMovieById(int movieId)
         {
-            return movies.Find(movie => movie.Id == userId.ToString());
+            return movies.Find(movie => movie.Id == movieId);
         }
 
-        // get all users
+        // get all movies
         public List<Movie> GetAllMovies()
         {
             return movies;
         }
 
-        // add new user
+        // add new movie
         public void AddMovie(Movie newMovie)
         {
-            users.Add(newMovie);
+            movies.Add(newMovie);
         }
 
-        // update user
+        // update movie
         public Movie UpdateMovie(Movie updatedMovie)
         {
             int index = movies.FindIndex(movie => movie.Id == updatedMovie.Id);
-            movies[index] = updatedMovie;
+            if (index != -1)
+            {
+                movies[index] = updatedMovie;
+            }
             return updatedMovie;
         }
 
-        // delete user by id
-        public void DeleteUser(int movieId)
+        // delete movie by id
+        public void DeleteMovie(int movieId)
         {
-            int index = users.FindIndex(movie => movie.Id == movieId.ToString());
-            movies.RemoveAt(index);
+            int index = movies.FindIndex(movie => movie.Id == movieId);
+            if (index != -1)
+            {
+                movies.RemoveAt(index);
+            }
         }
     }
 }

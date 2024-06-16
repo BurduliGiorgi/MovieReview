@@ -1,4 +1,5 @@
 ﻿using MovieReview.Models;
+using System.Collections.Generic;
 
 namespace MovieReview.Repos
 {
@@ -9,40 +10,45 @@ namespace MovieReview.Repos
         public RatingRepository()
         {
             ratings = new List<Rating>();
-
         }
 
         // get rating by id
         public Rating GetRatingById(int ratingId)
         {
-            return ratings.Find(rating => rating.Id == ratingId.ToString());
+            return ratings.Find(rating => rating.Id == ratingId);
         }
 
-        // get reviews by movie id
+        // get ratings by movie id
         public List<Rating> GetRatingsByMovieId(int movieId)
         {
-            return ratings.find(rating => rating.movieId == movieId.ToString());
+            return ratings.FindAll(rating => rating.MovieId == movieId);
         }
 
-        // add new review
-        public void AddRating(Rating newRatings)
+        // add new rating
+        public void AddRating(Rating newRating)
         {
-            ratings.Add(newRatings);
+            ratings.Add(newRating);
         }
 
-        // update review
+        // update rating
         public Rating UpdateRating(Rating updatedRating)
         {
             int index = ratings.FindIndex(rating => rating.Id == updatedRating.Id);
-            reviews[index] = updatedRating;
+            if (index != -1)
+            {
+                ratings[index] = updatedRating;
+            }
             return updatedRating;
         }
 
-        // delete review by id
-        public void DeleteReview(int ratingId)
+        // delete rating by id
+        public void DeleteRating(int ratingId)
         {
-            int index = ratings.FindIndex(rating => rating.Id == ratingId.ToString());
-            ratings.RemoveAt(index);
+            int index = ratings.FindIndex(rating => rating.Id == ratingId);
+            if (index != -1)
+            {
+                ratings.RemoveAt(index);
+            }
         }
     }
 }

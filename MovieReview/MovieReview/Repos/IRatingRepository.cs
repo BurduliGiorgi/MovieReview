@@ -1,11 +1,11 @@
-﻿using System.Collections.Specialized;
-using MovieReview.Models;
+﻿using MovieReview.Models;
+using System.Collections.Generic;
 
 namespace MovieReview.Repos
 {
     public interface IRatingRepository
     {
-        public Rating GetUserById(int ratingId);
+        public Rating GetRatingById(int ratingId); 
         public List<Rating> GetRatingsByMovieId(int movieId);
         public void AddRating(Rating newRating);
         public Rating UpdateRating(Rating updatedRating);
