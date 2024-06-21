@@ -8,6 +8,8 @@
         public DateTime ReleaseDate { get; set; }
         public decimal Rating { get; set; }
 
+        public string imageurl { get; set; }
+
         public ICollection<Review> Reviews { get; set; }
         public ICollection<Rating> Ratings { get; set; }
     }

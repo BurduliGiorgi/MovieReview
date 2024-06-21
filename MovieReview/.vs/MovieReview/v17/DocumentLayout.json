@@ -3,51 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Migrations\\MovieDb\\20240621165118_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieReview\\Migrations\\MovieDb\\20240621165118_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\repos\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\services\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\services\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\repos\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\repos\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\repos\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\repos\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\repos\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\repos\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\repos\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\repos\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\repos\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\repos\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\repos\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\repos\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\repos\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\repos\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|c:\\users\\pc\\desktop\\new folder (3)\\moviereview\\moviereview\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -111,14 +131,6 @@
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\moviereview\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{637DC540-1905-41C4-B777-CF8A7CC627C3}|MovieReview\\MovieReview.csproj|solutionrelative:moviereview\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -149,76 +161,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\UserRepository.cs",
-              "RelativeDocumentMoniker": "MovieReview\\Repos\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\UserRepository.cs",
-              "RelativeToolTip": "MovieReview\\Repos\\UserRepository.cs",
+              "DocumentIndex": 0,
+              "Title": "20240621165118_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Migrations\\MovieDb\\20240621165118_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Migrations\\MovieDb\\20240621165118_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Migrations\\MovieDb\\20240621165118_InitialCreate.cs",
+              "RelativeToolTip": "MovieReview\\Migrations\\MovieDb\\20240621165118_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:43:31.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RatingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\RatingRepository.cs",
-              "RelativeDocumentMoniker": "MovieReview\\Repos\\RatingRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\RatingRepository.cs",
-              "RelativeToolTip": "MovieReview\\Repos\\RatingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:39:42.322Z",
+              "WhenOpened": "2024-06-21T16:51:18.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RatingService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\RatingService.cs",
-              "RelativeDocumentMoniker": "MovieReview\\Services\\RatingService.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\RatingService.cs",
-              "RelativeToolTip": "MovieReview\\Services\\RatingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Services\\MovieDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\MovieDbContext.cs",
+              "RelativeToolTip": "MovieReview\\Services\\MovieDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:31:20.519Z",
+              "WhenOpened": "2024-06-21T16:44:52.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IMovieRepository.cs",
-              "RelativeDocumentMoniker": "MovieReview\\Repos\\IMovieRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IMovieRepository.cs",
-              "RelativeToolTip": "MovieReview\\Repos\\IMovieRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieReview\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:30:10.582Z",
+              "WhenOpened": "2024-06-21T16:42:56.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IRatingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IRatingRepository.cs",
-              "RelativeDocumentMoniker": "MovieReview\\Repos\\IRatingRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IRatingRepository.cs",
-              "RelativeToolTip": "MovieReview\\Repos\\IRatingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:30:10.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "IReviewRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IReviewRepository.cs",
               "RelativeDocumentMoniker": "MovieReview\\Repos\\IReviewRepository.cs",
@@ -226,12 +212,11 @@
               "RelativeToolTip": "MovieReview\\Repos\\IReviewRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:29:46.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T10:29:46.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ReviewService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\ReviewService.cs",
               "RelativeDocumentMoniker": "MovieReview\\Services\\ReviewService.cs",
@@ -239,12 +224,110 @@
               "RelativeToolTip": "MovieReview\\Services\\ReviewService.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAYwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:29:30.308Z",
+              "WhenOpened": "2024-06-15T10:29:30.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Program.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Program.cs",
+              "RelativeToolTip": "MovieReview\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:49:58.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieReview\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\appsettings.json",
+              "RelativeToolTip": "MovieReview\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T10:53:58.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Repos\\IRatingRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IRatingRepository.cs",
+              "RelativeToolTip": "MovieReview\\Repos\\IRatingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:30:10.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MovieReview\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:47:36.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Repos\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IMovieRepository.cs",
+              "RelativeToolTip": "MovieReview\\Repos\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:30:10.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\RatingService.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Services\\RatingService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\RatingService.cs",
+              "RelativeToolTip": "MovieReview\\Services\\RatingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:31:20.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Repos\\RatingRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\RatingRepository.cs",
+              "RelativeToolTip": "MovieReview\\Repos\\RatingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:39:42.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MovieReview\\Repos\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\UserRepository.cs",
+              "RelativeToolTip": "MovieReview\\Repos\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:43:31.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "MovieReview\\Services\\UserService.cs",
@@ -252,25 +335,11 @@
               "RelativeToolTip": "MovieReview\\Services\\UserService.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAA1wEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:26:50.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T10:26:50.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Program.cs",
-              "RelativeDocumentMoniker": "MovieReview\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Program.cs",
-              "RelativeToolTip": "MovieReview\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:49:58.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Repos\\IUserRepository.cs",
               "RelativeDocumentMoniker": "MovieReview\\Repos\\IUserRepository.cs",
@@ -278,12 +347,11 @@
               "RelativeToolTip": "MovieReview\\Repos\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:28:09.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T10:28:09.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "MovieService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\MovieService.cs",
               "RelativeDocumentMoniker": "MovieReview\\Services\\MovieService.cs",
@@ -291,12 +359,11 @@
               "RelativeToolTip": "MovieReview\\Services\\MovieService.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAgwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T10:26:19.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T10:26:19.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Views\\Shared\\Error.cshtml",
@@ -308,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -320,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -328,12 +395,11 @@
               "RelativeToolTip": "MovieReview\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AQIAAFYAAAAAAAAAAAAkwIYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T11:46:22.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T11:46:22.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Views\\Shared\\_LoginPartial.cshtml",
@@ -345,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Views\\Shared\\_Layout.cshtml",
@@ -357,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -369,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -381,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Views\\_ViewStart.cshtml",
@@ -393,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -405,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Views\\_ViewImports.cshtml",
@@ -417,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MovieReview\\wwwroot\\css\\site.css",
@@ -429,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -441,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -453,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
@@ -465,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -477,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
@@ -489,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "MovieReview\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
@@ -501,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "MovieReview\\ScaffoldingReadMe.txt",
@@ -513,31 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MovieReview\\Services\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Services\\ApplicationDbContext.cs",
-              "RelativeToolTip": "MovieReview\\Services\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:47:36.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\appsettings.json",
-              "RelativeDocumentMoniker": "MovieReview\\appsettings.json",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\appsettings.json",
-              "RelativeToolTip": "MovieReview\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-05T10:53:58.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "20240605110654_SecondMigration.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Migrations\\20240605110654_SecondMigration.cs",
               "RelativeDocumentMoniker": "MovieReview\\Migrations\\20240605110654_SecondMigration.cs",
@@ -549,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "20240605110103_FirstMigration.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Migrations\\20240605110103_FirstMigration.cs",
               "RelativeDocumentMoniker": "MovieReview\\Migrations\\20240605110103_FirstMigration.cs",
@@ -561,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\New folder (3)\\MovieReview\\MovieReview\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "MovieReview\\Models\\ApplicationUser.cs",
@@ -573,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "20240605105341_firstMigration.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\MovieReview\\MovieReview\\Migrations\\20240605105341_firstMigration.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\MovieReview\\MovieReview\\Migrations\\20240605105341_firstMigration.cs",
