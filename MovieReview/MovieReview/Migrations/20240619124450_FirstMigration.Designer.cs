@@ -12,8 +12,8 @@ using MovieReview.Services;
 namespace MovieReview.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240605110654_SecondMigration")]
-    partial class SecondMigration
+    [Migration("20240619124450_FirstMigration")]
+    partial class FirstMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -54,19 +54,19 @@ namespace MovieReview.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "90366840-8a4c-41ed-acda-0db68ae6c818",
+                            Id = "03543b12-c5e8-459a-afbe-611818274d38",
                             Name = "admin",
                             NormalizedName = "admin"
                         },
                         new
                         {
-                            Id = "29e73a7f-2c5e-4cbd-b53e-19a0de04cddc",
+                            Id = "1745beea-e783-47d5-8025-6425c689ad04",
                             Name = "RegisteredUser",
                             NormalizedName = "RegisteredUser"
                         },
                         new
                         {
-                            Id = "20091cd0-5c9b-4155-a33a-d33b37edaab6",
+                            Id = "4550f462-6baa-441f-9e01-d4be6062420a",
                             Name = "GuestUser",
                             NormalizedName = "GuestUser"
                         });
@@ -125,10 +125,12 @@ namespace MovieReview.Migrations
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
                     b.Property<string>("LoginProvider")
-                        .HasColumnType("nvarchar(450)");
+                        .HasMaxLength(128)
+                        .HasColumnType("nvarchar(128)");
 
                     b.Property<string>("ProviderKey")
-                        .HasColumnType("nvarchar(450)");
+                        .HasMaxLength(128)
+                        .HasColumnType("nvarchar(128)");
 
                     b.Property<string>("ProviderDisplayName")
                         .HasColumnType("nvarchar(max)");
@@ -165,10 +167,12 @@ namespace MovieReview.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("LoginProvider")
-                        .HasColumnType("nvarchar(450)");
+                        .HasMaxLength(128)
+                        .HasColumnType("nvarchar(128)");
 
                     b.Property<string>("Name")
-                        .HasColumnType("nvarchar(450)");
+                        .HasMaxLength(128)
+                        .HasColumnType("nvarchar(128)");
 
                     b.Property<string>("Value")
                         .HasColumnType("nvarchar(max)");
